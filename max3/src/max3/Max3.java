@@ -3,10 +3,10 @@ package max3;
 public class Max3 {
 	
 	/**
-	 * Returns the maximum of the given numbers
+	 * Returns the maximum of the given numbers.
 	 * @post The result equals one of the given numbers
 	 * 		| result == i||result == j||result == k
-	 * @post The result is not less than any of the given numbers
+	 * @post The result is not less than any of the given numbers.
 	 * 		| i <= result && j <= result && k<= result
 	 */
 
